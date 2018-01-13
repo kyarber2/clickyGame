@@ -1,0 +1,27 @@
+[
+  {
+    "id": 1,
+    "image": "/images/flower1.jpg",
+    "clicked": false
+  },
+  {
+    "id": 2,
+    "image": "/images/flower2.jpg",
+    "clicked": false
+  },
+  {
+    "id": 3,
+    "image": "/images/flower3.jpg",
+    "clicked": false
+  },
+  {
+    "id": 4,
+    "image": "/images/flower4.jpg",
+    "clicked": false
+  },
+  {
+    "id": 5,
+    "image": "/images/flower5.jpg",
+    "clicked": false
+  }
+]
